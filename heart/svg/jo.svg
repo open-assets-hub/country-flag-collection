@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 500" width="512" height="512">
+  <defs>
+    <clipPath id="shape">
+      <path d="M256 470 C130 370 10 300 10 190 C10 100 80 30 170 30 C220 30 256 60 256 60 C256 60 292 30 342 30 C432 30 502 100 502 190 C502 300 382 370 256 470Z"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#shape)">
+    <svg viewBox="0 0 640 480" width="512" height="512" preserveAspectRatio="xMidYMid slice">
+      
+  <defs>
+    <clipPath id="jo-a">
+      <path fill-opacity=".7" d="M-117.8 0h682.6v512h-682.6z"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#jo-a)" transform="translate(110.5)scale(.9375)">
+    <g fill-rule="evenodd" stroke-width="1pt">
+      <path fill="#000001" d="M-117.8 0h1024v170.7h-1024z"/>
+      <path fill="#fff" d="M-117.8 170.7h1024v170.6h-1024z"/>
+      <path fill="#090" d="M-117.8 341.3h1024V512h-1024z"/>
+      <path fill="red" d="m-117.8 512 512-256-512-256z"/>
+      <path fill="#fff" d="m24.5 289 5.7-24.9H4.7l23-11-15.9-19.9 23 11 5.6-24.8 5.7 24.9L69 233.2l-16 19.9 23 11H50.6l5.7 24.9-15.9-20z"/>
+    </g>
+  </g>
+
+
+    </svg>
+  </g>
+</svg>

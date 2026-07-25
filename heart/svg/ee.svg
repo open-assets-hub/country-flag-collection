@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 500" width="512" height="512">
+  <defs>
+    <clipPath id="shape">
+      <path d="M256 470 C130 370 10 300 10 190 C10 100 80 30 170 30 C220 30 256 60 256 60 C256 60 292 30 342 30 C432 30 502 100 502 190 C502 300 382 370 256 470Z"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#shape)">
+    <svg viewBox="0 0 640 480" width="512" height="512" preserveAspectRatio="xMidYMid slice">
+      
+  <path fill="#1791ff" d="M0 0h640v160H0z"/>
+  <path fill="#000001" d="M0 160h640v160H0z"/>
+  <path fill="#fff" d="M0 320h640v160H0z"/>
+
+
+    </svg>
+  </g>
+</svg>

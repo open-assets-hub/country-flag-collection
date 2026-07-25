@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 500" width="512" height="512">
+  <defs>
+    <clipPath id="shape">
+      <path d="M256 470 C130 370 10 300 10 190 C10 100 80 30 170 30 C220 30 256 60 256 60 C256 60 292 30 342 30 C432 30 502 100 502 190 C502 300 382 370 256 470Z"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#shape)">
+    <svg viewBox="0 0 640 480" width="512" height="512" preserveAspectRatio="xMidYMid slice">
+      
+  <defs>
+    <clipPath id="bv-a">
+      <path fill-opacity=".7" d="M0 0h640v480H0z"/>
+    </clipPath>
+  </defs>
+  <g fill-rule="evenodd" stroke-width="1pt" clip-path="url(#bv-a)">
+    <path fill="#fff" d="M-28 0h699.7v512H-28z"/>
+    <path fill="#d72828" d="M-53-77.8h218.7v276.2H-53zM289.4-.6h381v199h-381zM-27.6 320h190.4v190.3H-27.6zm319.6 2.1h378.3v188.2H292z"/>
+    <path fill="#003897" d="M196.7-25.4H261v535.7h-64.5z"/>
+    <path fill="#003897" d="M-27.6 224.8h698v63.5h-698z"/>
+  </g>
+
+
+    </svg>
+  </g>
+</svg>

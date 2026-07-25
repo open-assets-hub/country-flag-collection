@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <clipPath id="shape">
+      <polygon points="256,10 480,138 480,374 256,502 32,374 32,138"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#shape)">
+    <svg viewBox="0 0 640 480" width="512" height="512" preserveAspectRatio="xMidYMid slice">
+      
+  <g fill-rule="evenodd" stroke-width="1pt">
+    <path fill="#c10000" d="M0 0h640v480H0z"/>
+    <path fill="#fff" d="M0 0h250v200.3H0z"/>
+    <g fill="#c10000">
+      <path d="M102.8 31.2h39.9v139.6h-39.8z"/>
+      <path d="M192.6 81v40H53V81z"/>
+    </g>
+  </g>
+
+
+    </svg>
+  </g>
+</svg>

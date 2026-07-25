@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <clipPath id="shape">
+      <path d="M256 10 L490 100 L490 280 Q490 420 256 502 Q22 420 22 280 L22 100 Z"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#shape)">
+    <svg viewBox="0 0 640 480" width="512" height="512" preserveAspectRatio="xMidYMid slice">
+      
+  <g fill-rule="evenodd">
+    <path fill="#002664" d="M0 0h214v480H0z"/>
+    <path fill="#c60c30" d="M426 0h214v480H426z"/>
+    <path fill="#fecb00" d="M214 0h212v480H214z"/>
+  </g>
+
+
+    </svg>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <clipPath id="shape">
+      <circle cx="256" cy="256" r="250"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#shape)">
+    <svg viewBox="0 0 640 480" width="512" height="512" preserveAspectRatio="xMidYMid slice">
+      
+  <defs>
+    <clipPath id="sd-a">
+      <path fill-opacity=".7" d="M0 0h682.7v512H0z"/>
+    </clipPath>
+  </defs>
+  <g fill-rule="evenodd" stroke-width="1pt" clip-path="url(#sd-a)" transform="scale(.9375)">
+    <path fill="#000001" d="M0 341.3h1024V512H0z"/>
+    <path fill="#fff" d="M0 170.6h1024v170.7H0z"/>
+    <path fill="red" d="M0 0h1024.8v170.7H0z"/>
+    <path fill="#009a00" d="M0 0v512l341.3-256z"/>
+  </g>
+
+
+    </svg>
+  </g>
+</svg>

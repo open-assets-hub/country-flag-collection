@@ -1,0 +1,71 @@
+# Country Flag Collection — Free SVG & PNG Icons in Multiple Shapes
+
+Free country flag icons in **7 shapes** for 271 countries. Transparent PNG in multiple sizes + SVG source. Free for commercial use.
+
+**271 countries** · **7 shapes** · **SVG + PNG** · **64, 128, 256, 512px** · **Transparent** · **Free (MIT)**
+
+## Shapes
+
+### [Circle](circle/)
+
+![Circle flags preview](preview/circle.png)
+
+271 flags · SVG + PNG (64, 128, 256, 512px) · [Download](../../releases)
+
+### [Rounded](rounded/)
+
+![Rounded flags preview](preview/rounded.png)
+
+271 flags · SVG + PNG (64, 128, 256, 512px) · [Download](../../releases)
+
+### [Square](square/)
+
+![Square flags preview](preview/square.png)
+
+271 flags · SVG + PNG (64, 128, 256, 512px) · [Download](../../releases)
+
+### [Shield](shield/)
+
+![Shield flags preview](preview/shield.png)
+
+271 flags · SVG + PNG (64, 128, 256, 512px) · [Download](../../releases)
+
+### [Heart](heart/)
+
+![Heart flags preview](preview/heart.png)
+
+271 flags · SVG + PNG (64, 128, 256, 512px) · [Download](../../releases)
+
+### [Hexagon](hexagon/)
+
+![Hexagon flags preview](preview/hexagon.png)
+
+271 flags · SVG + PNG (64, 128, 256, 512px) · [Download](../../releases)
+
+### [Badge](badge/)
+
+![Badge flags preview](preview/badge.png)
+
+271 flags · SVG + PNG (64, 128, 256, 512px) · [Download](../../releases)
+
+
+
+## Quick Start
+
+1. Pick a shape above
+2. Download from [Releases](../../releases) — choose size and format
+3. Each file is named by ISO country code: `th.png`, `us.svg`, etc.
+
+## Sizes
+
+| Size | Use case |
+|---|---|
+| 64px | Small UI icons, chat, lists |
+| 128px | Web badges, social media |
+| 256px | Cards, presentations |
+| 512px | Print, high-DPI displays |
+| SVG | Scalable, any size |
+
+## License
+
+Flag SVGs from [lipis/flag-icons](https://github.com/lipis/flag-icons) (MIT License). Free for personal and commercial use.

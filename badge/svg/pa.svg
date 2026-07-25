@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <clipPath id="shape">
+      <path d="M256.0 6.0 L299.9 35.3 L351.7 25.0 L381.0 68.9 L432.8 79.2 L443.1 131.0 L487.0 160.3 L476.7 212.1 L506.0 256.0 L476.7 299.9 L487.0 351.7 L443.1 381.0 L432.8 432.8 L381.0 443.1 L351.7 487.0 L299.9 476.7 L256.0 506.0 L212.1 476.7 L160.3 487.0 L131.0 443.1 L79.2 432.8 L68.9 381.0 L25.0 351.7 L35.3 299.9 L6.0 256.0 L35.3 212.1 L25.0 160.3 L68.9 131.0 L79.2 79.2 L131.0 68.9 L160.3 25.0 L212.1 35.3 Z"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#shape)">
+    <svg viewBox="0 0 640 480" width="512" height="512" preserveAspectRatio="xMidYMid slice">
+      
+  <path fill="#fff" d="M0 0h640v480H0z"/>
+  <path fill="#db0000" d="M323 0h358v225.3H323z"/>
+  <path fill="#0000ab" d="M0 225.3h323.1V480H0z"/>
+  <path fill="#0000ab" fill-rule="evenodd" d="m214.8 177.7-42-29.4-41.7 29.6 15.5-48L105 100l51.6-.4 16-48 16.3 47.9h51.6l-41.5 30 15.9 48z"/>
+  <path fill="#d80000" fill-rule="evenodd" d="m516.9 413.9-42.4-27.7-42.1 28 15.6-45.6-42-28 52-.5 16.2-45.4 16.4 45.3h52l-41.8 28.5 16 45.4z"/>
+
+
+    </svg>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <clipPath id="shape">
+      <polygon points="256,10 480,138 480,374 256,502 32,374 32,138"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#shape)">
+    <svg viewBox="0 0 640 480" width="512" height="512" preserveAspectRatio="xMidYMid slice">
+      
+  <path fill="#e70011" d="M0 0h640v240H0Z"/>
+  <path fill="#fff" d="M0 240h640v240H0Z"/>
+
+
+    </svg>
+  </g>
+</svg>

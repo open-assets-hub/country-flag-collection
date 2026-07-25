@@ -1,0 +1,34 @@
+# GB-SCT Flag Icons — Free SVG & PNG in 7 Shapes
+
+Free GB-SCT flag icons in 7 shapes. Transparent PNG (64, 128, 256, 512px) + SVG. Free for commercial use.
+
+![GB-SCT Flag Icons](card.png)
+
+## Preview
+
+![Circle](../../circle/128/gb-sct.png "Circle") ![Rounded](../../rounded/128/gb-sct.png "Rounded") ![Square](../../square/128/gb-sct.png "Square") ![Shield](../../shield/128/gb-sct.png "Shield") ![Heart](../../heart/128/gb-sct.png "Heart") ![Hexagon](../../hexagon/128/gb-sct.png "Hexagon") ![Badge](../../badge/128/gb-sct.png "Badge")
+
+## Download All Shapes
+
+**[Download gb-sct-flag-icons.zip](gb-sct-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+
+## Download Individual
+
+| Shape | SVG | 64px | 128px | 256px | 512px |
+|---|---|---|---|---|---|
+| Circle | [SVG](../../circle/svg/gb-sct.svg) | [64](../../circle/64/gb-sct.png) | [128](../../circle/128/gb-sct.png) | [256](../../circle/256/gb-sct.png) | [512](../../circle/512/gb-sct.png) |
+| Rounded | [SVG](../../rounded/svg/gb-sct.svg) | [64](../../rounded/64/gb-sct.png) | [128](../../rounded/128/gb-sct.png) | [256](../../rounded/256/gb-sct.png) | [512](../../rounded/512/gb-sct.png) |
+| Square | [SVG](../../square/svg/gb-sct.svg) | [64](../../square/64/gb-sct.png) | [128](../../square/128/gb-sct.png) | [256](../../square/256/gb-sct.png) | [512](../../square/512/gb-sct.png) |
+| Shield | [SVG](../../shield/svg/gb-sct.svg) | [64](../../shield/64/gb-sct.png) | [128](../../shield/128/gb-sct.png) | [256](../../shield/256/gb-sct.png) | [512](../../shield/512/gb-sct.png) |
+| Heart | [SVG](../../heart/svg/gb-sct.svg) | [64](../../heart/64/gb-sct.png) | [128](../../heart/128/gb-sct.png) | [256](../../heart/256/gb-sct.png) | [512](../../heart/512/gb-sct.png) |
+| Hexagon | [SVG](../../hexagon/svg/gb-sct.svg) | [64](../../hexagon/64/gb-sct.png) | [128](../../hexagon/128/gb-sct.png) | [256](../../hexagon/256/gb-sct.png) | [512](../../hexagon/512/gb-sct.png) |
+| Badge | [SVG](../../badge/svg/gb-sct.svg) | [64](../../badge/64/gb-sct.png) | [128](../../badge/128/gb-sct.png) | [256](../../badge/256/gb-sct.png) | [512](../../badge/512/gb-sct.png) |
+
+
+## Keywords
+
+GB-SCT flag icon, GB-SCT flag png, GB-SCT flag svg, GB-SCT flag circle,
+GB-SCT flag rounded, GB-SCT flag shield, GB-SCT flag heart,
+GB-SCT flag icon, free GB-SCT flag download, GB-SCT flag transparent png
+
+[← All countries](../../README.md)
