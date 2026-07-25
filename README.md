@@ -112,6 +112,20 @@ Free country flag icons in **7 shapes** for 271 countries. Transparent PNG in mu
 | 512px | Print, high-DPI displays |
 | SVG | Scalable, any size |
 
+## Direct Link (for developers & AI)
+
+```
+https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/{shape}/{size}/{iso2}.png
+https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/{shape}/svg/{iso2}.svg
+```
+
+Example: `circle/256/th.png` · `shield/svg/jp.svg`
+
+Shapes: `circle` `rounded` `square` `shield` `heart` `hexagon` `badge`
+Sizes: `64` `128` `256` `512`
+
+See [llms.txt](llms.txt) for machine-readable instructions.
+
 ## License
 
 Flag SVGs from [lipis/flag-icons](https://github.com/lipis/flag-icons) (MIT License). Free for personal and commercial use.
