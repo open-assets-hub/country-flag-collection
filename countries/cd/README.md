@@ -10,7 +10,7 @@ Free Congo, Democratic Republic of the flag icons in 7 shapes. Transparent PNG (
 
 ## Download All Shapes
 
-**[Download cd-flag-icons.zip](cd-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download cd-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/cd/cd-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

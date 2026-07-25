@@ -10,7 +10,7 @@ Free Trinidad and Tobago flag icons in 7 shapes. Transparent PNG (64, 128, 256, 
 
 ## Download All Shapes
 
-**[Download tt-flag-icons.zip](tt-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download tt-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/tt/tt-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

@@ -10,7 +10,7 @@ Free Sierra Leone flag icons in 7 shapes. Transparent PNG (64, 128, 256, 512px) 
 
 ## Download All Shapes
 
-**[Download sl-flag-icons.zip](sl-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download sl-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/sl/sl-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

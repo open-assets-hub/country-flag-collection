@@ -10,7 +10,7 @@ Free Georgia flag icons in 7 shapes. Transparent PNG (64, 128, 256, 512px) + SVG
 
 ## Download All Shapes
 
-**[Download ge-flag-icons.zip](ge-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download ge-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/ge/ge-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

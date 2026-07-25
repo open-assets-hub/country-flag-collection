@@ -10,7 +10,7 @@ Free Saint Helena, Ascension and Tristan da Cunha flag icons in 7 shapes. Transp
 
 ## Download All Shapes
 
-**[Download sh-flag-icons.zip](sh-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download sh-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/sh/sh-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

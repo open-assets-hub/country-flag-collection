@@ -10,7 +10,7 @@ Free Wallis and Futuna flag icons in 7 shapes. Transparent PNG (64, 128, 256, 51
 
 ## Download All Shapes
 
-**[Download wf-flag-icons.zip](wf-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download wf-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/wf/wf-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

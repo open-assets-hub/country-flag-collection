@@ -10,7 +10,7 @@ Free Netherlands, Kingdom of the flag icons in 7 shapes. Transparent PNG (64, 12
 
 ## Download All Shapes
 
-**[Download nl-flag-icons.zip](nl-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download nl-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/nl/nl-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

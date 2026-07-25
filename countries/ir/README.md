@@ -10,7 +10,7 @@ Free Iran, Islamic Republic of flag icons in 7 shapes. Transparent PNG (64, 128,
 
 ## Download All Shapes
 
-**[Download ir-flag-icons.zip](ir-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download ir-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/ir/ir-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

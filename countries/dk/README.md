@@ -10,7 +10,7 @@ Free Denmark flag icons in 7 shapes. Transparent PNG (64, 128, 256, 512px) + SVG
 
 ## Download All Shapes
 
-**[Download dk-flag-icons.zip](dk-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download dk-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/dk/dk-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

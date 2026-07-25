@@ -10,7 +10,7 @@ Free United Arab Emirates flag icons in 7 shapes. Transparent PNG (64, 128, 256,
 
 ## Download All Shapes
 
-**[Download ae-flag-icons.zip](ae-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download ae-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/ae/ae-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

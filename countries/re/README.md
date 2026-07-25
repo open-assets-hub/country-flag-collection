@@ -10,7 +10,7 @@ Free Réunion flag icons in 7 shapes. Transparent PNG (64, 128, 256, 512px) + SV
 
 ## Download All Shapes
 
-**[Download re-flag-icons.zip](re-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download re-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/re/re-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

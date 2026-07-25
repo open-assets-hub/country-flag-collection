@@ -10,7 +10,7 @@ Free Guatemala flag icons in 7 shapes. Transparent PNG (64, 128, 256, 512px) + S
 
 ## Download All Shapes
 
-**[Download gt-flag-icons.zip](gt-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download gt-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/gt/gt-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

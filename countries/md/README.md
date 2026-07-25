@@ -10,7 +10,7 @@ Free Moldova, Republic of flag icons in 7 shapes. Transparent PNG (64, 128, 256,
 
 ## Download All Shapes
 
-**[Download md-flag-icons.zip](md-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download md-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/md/md-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

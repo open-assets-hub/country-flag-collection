@@ -10,7 +10,7 @@ Free GB-ENG flag icons in 7 shapes. Transparent PNG (64, 128, 256, 512px) + SVG.
 
 ## Download All Shapes
 
-**[Download gb-eng-flag-icons.zip](gb-eng-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download gb-eng-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/gb-eng/gb-eng-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

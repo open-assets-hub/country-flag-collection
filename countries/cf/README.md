@@ -10,7 +10,7 @@ Free Central African Republic flag icons in 7 shapes. Transparent PNG (64, 128, 
 
 ## Download All Shapes
 
-**[Download cf-flag-icons.zip](cf-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download cf-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/cf/cf-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

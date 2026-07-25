@@ -10,7 +10,7 @@ Free XX flag icons in 7 shapes. Transparent PNG (64, 128, 256, 512px) + SVG. Fre
 
 ## Download All Shapes
 
-**[Download xx-flag-icons.zip](xx-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download xx-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/xx/xx-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

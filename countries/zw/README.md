@@ -10,7 +10,7 @@ Free Zimbabwe flag icons in 7 shapes. Transparent PNG (64, 128, 256, 512px) + SV
 
 ## Download All Shapes
 
-**[Download zw-flag-icons.zip](zw-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download zw-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/zw/zw-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

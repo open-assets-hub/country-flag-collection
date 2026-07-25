@@ -10,7 +10,7 @@ Free Guinea flag icons in 7 shapes. Transparent PNG (64, 128, 256, 512px) + SVG.
 
 ## Download All Shapes
 
-**[Download gn-flag-icons.zip](gn-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download gn-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/gn/gn-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

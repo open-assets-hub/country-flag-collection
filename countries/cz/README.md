@@ -10,7 +10,7 @@ Free Czechia flag icons in 7 shapes. Transparent PNG (64, 128, 256, 512px) + SVG
 
 ## Download All Shapes
 
-**[Download cz-flag-icons.zip](cz-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download cz-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/cz/cz-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

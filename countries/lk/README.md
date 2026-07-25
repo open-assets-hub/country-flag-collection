@@ -10,7 +10,7 @@ Free Sri Lanka flag icons in 7 shapes. Transparent PNG (64, 128, 256, 512px) + S
 
 ## Download All Shapes
 
-**[Download lk-flag-icons.zip](lk-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download lk-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/lk/lk-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

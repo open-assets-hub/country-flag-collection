@@ -10,7 +10,7 @@ Free Mayotte flag icons in 7 shapes. Transparent PNG (64, 128, 256, 512px) + SVG
 
 ## Download All Shapes
 
-**[Download yt-flag-icons.zip](yt-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download yt-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/yt/yt-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

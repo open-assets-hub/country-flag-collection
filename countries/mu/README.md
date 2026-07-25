@@ -10,7 +10,7 @@ Free Mauritius flag icons in 7 shapes. Transparent PNG (64, 128, 256, 512px) + S
 
 ## Download All Shapes
 
-**[Download mu-flag-icons.zip](mu-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download mu-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/mu/mu-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

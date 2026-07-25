@@ -10,7 +10,7 @@ Free Egypt flag icons in 7 shapes. Transparent PNG (64, 128, 256, 512px) + SVG. 
 
 ## Download All Shapes
 
-**[Download eg-flag-icons.zip](eg-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download eg-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/eg/eg-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

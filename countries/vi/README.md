@@ -10,7 +10,7 @@ Free Virgin Islands (U.S.) flag icons in 7 shapes. Transparent PNG (64, 128, 256
 
 ## Download All Shapes
 
-**[Download vi-flag-icons.zip](vi-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download vi-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/vi/vi-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

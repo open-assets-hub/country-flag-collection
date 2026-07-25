@@ -10,7 +10,7 @@ Free EU flag icons in 7 shapes. Transparent PNG (64, 128, 256, 512px) + SVG. Fre
 
 ## Download All Shapes
 
-**[Download eu-flag-icons.zip](eu-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download eu-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/eu/eu-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

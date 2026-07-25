@@ -10,7 +10,7 @@ Free Myanmar flag icons in 7 shapes. Transparent PNG (64, 128, 256, 512px) + SVG
 
 ## Download All Shapes
 
-**[Download mm-flag-icons.zip](mm-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download mm-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/mm/mm-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

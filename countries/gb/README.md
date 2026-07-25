@@ -10,7 +10,7 @@ Free United Kingdom of Great Britain and Northern Ireland flag icons in 7 shapes
 
 ## Download All Shapes
 
-**[Download gb-flag-icons.zip](gb-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download gb-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/gb/gb-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

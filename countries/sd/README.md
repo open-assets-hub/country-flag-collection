@@ -10,7 +10,7 @@ Free Sudan flag icons in 7 shapes. Transparent PNG (64, 128, 256, 512px) + SVG. 
 
 ## Download All Shapes
 
-**[Download sd-flag-icons.zip](sd-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download sd-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/sd/sd-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

@@ -10,7 +10,7 @@ Free Singapore flag icons in 7 shapes. Transparent PNG (64, 128, 256, 512px) + S
 
 ## Download All Shapes
 
-**[Download sg-flag-icons.zip](sg-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download sg-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/sg/sg-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

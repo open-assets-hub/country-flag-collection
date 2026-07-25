@@ -10,7 +10,7 @@ Free Cocos (Keeling) Islands flag icons in 7 shapes. Transparent PNG (64, 128, 2
 
 ## Download All Shapes
 
-**[Download cc-flag-icons.zip](cc-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download cc-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/cc/cc-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

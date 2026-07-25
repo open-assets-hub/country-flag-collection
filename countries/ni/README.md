@@ -10,7 +10,7 @@ Free Nicaragua flag icons in 7 shapes. Transparent PNG (64, 128, 256, 512px) + S
 
 ## Download All Shapes
 
-**[Download ni-flag-icons.zip](ni-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download ni-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/ni/ni-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

@@ -10,7 +10,7 @@ Free Sao Tome and Principe flag icons in 7 shapes. Transparent PNG (64, 128, 256
 
 ## Download All Shapes
 
-**[Download st-flag-icons.zip](st-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download st-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/st/st-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

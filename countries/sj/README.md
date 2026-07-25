@@ -10,7 +10,7 @@ Free Svalbard and Jan Mayen flag icons in 7 shapes. Transparent PNG (64, 128, 25
 
 ## Download All Shapes
 
-**[Download sj-flag-icons.zip](sj-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download sj-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/sj/sj-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

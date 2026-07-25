@@ -10,7 +10,7 @@ Free Uruguay flag icons in 7 shapes. Transparent PNG (64, 128, 256, 512px) + SVG
 
 ## Download All Shapes
 
-**[Download uy-flag-icons.zip](uy-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download uy-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/uy/uy-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

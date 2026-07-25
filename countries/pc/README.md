@@ -10,7 +10,7 @@ Free PC flag icons in 7 shapes. Transparent PNG (64, 128, 256, 512px) + SVG. Fre
 
 ## Download All Shapes
 
-**[Download pc-flag-icons.zip](pc-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download pc-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/pc/pc-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

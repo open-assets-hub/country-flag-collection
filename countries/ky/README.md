@@ -10,7 +10,7 @@ Free Cayman Islands flag icons in 7 shapes. Transparent PNG (64, 128, 256, 512px
 
 ## Download All Shapes
 
-**[Download ky-flag-icons.zip](ky-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download ky-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/ky/ky-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

@@ -10,7 +10,7 @@ Free Korea, Democratic People's Republic of flag icons in 7 shapes. Transparent 
 
 ## Download All Shapes
 
-**[Download kp-flag-icons.zip](kp-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download kp-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/kp/kp-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

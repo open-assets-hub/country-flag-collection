@@ -10,7 +10,7 @@ Free SH-TA flag icons in 7 shapes. Transparent PNG (64, 128, 256, 512px) + SVG. 
 
 ## Download All Shapes
 
-**[Download sh-ta-flag-icons.zip](sh-ta-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download sh-ta-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/sh-ta/sh-ta-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

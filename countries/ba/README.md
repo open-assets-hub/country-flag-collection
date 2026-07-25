@@ -10,7 +10,7 @@ Free Bosnia and Herzegovina flag icons in 7 shapes. Transparent PNG (64, 128, 25
 
 ## Download All Shapes
 
-**[Download ba-flag-icons.zip](ba-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download ba-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/ba/ba-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

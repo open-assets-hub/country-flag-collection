@@ -10,7 +10,7 @@ Free Italy flag icons in 7 shapes. Transparent PNG (64, 128, 256, 512px) + SVG. 
 
 ## Download All Shapes
 
-**[Download it-flag-icons.zip](it-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download it-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/it/it-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

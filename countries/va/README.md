@@ -10,7 +10,7 @@ Free Holy See flag icons in 7 shapes. Transparent PNG (64, 128, 256, 512px) + SV
 
 ## Download All Shapes
 
-**[Download va-flag-icons.zip](va-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download va-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/va/va-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

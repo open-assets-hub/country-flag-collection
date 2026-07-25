@@ -10,7 +10,7 @@ Free Papua New Guinea flag icons in 7 shapes. Transparent PNG (64, 128, 256, 512
 
 ## Download All Shapes
 
-**[Download pg-flag-icons.zip](pg-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download pg-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/pg/pg-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

@@ -10,7 +10,7 @@ Free Palestine, State of flag icons in 7 shapes. Transparent PNG (64, 128, 256, 
 
 ## Download All Shapes
 
-**[Download ps-flag-icons.zip](ps-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download ps-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/ps/ps-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

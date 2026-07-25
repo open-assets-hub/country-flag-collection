@@ -10,7 +10,7 @@ Free Virgin Islands (British) flag icons in 7 shapes. Transparent PNG (64, 128, 
 
 ## Download All Shapes
 
-**[Download vg-flag-icons.zip](vg-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download vg-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/vg/vg-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

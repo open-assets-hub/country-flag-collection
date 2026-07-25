@@ -10,7 +10,7 @@ Free Bolivia, Plurinational State of flag icons in 7 shapes. Transparent PNG (64
 
 ## Download All Shapes
 
-**[Download bo-flag-icons.zip](bo-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download bo-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/bo/bo-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

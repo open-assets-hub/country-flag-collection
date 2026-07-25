@@ -10,7 +10,7 @@ Free Kenya flag icons in 7 shapes. Transparent PNG (64, 128, 256, 512px) + SVG. 
 
 ## Download All Shapes
 
-**[Download ke-flag-icons.zip](ke-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download ke-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/ke/ke-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

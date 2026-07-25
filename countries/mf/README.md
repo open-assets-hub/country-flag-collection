@@ -10,7 +10,7 @@ Free Saint Martin (French part) flag icons in 7 shapes. Transparent PNG (64, 128
 
 ## Download All Shapes
 
-**[Download mf-flag-icons.zip](mf-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download mf-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/mf/mf-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

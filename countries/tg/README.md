@@ -10,7 +10,7 @@ Free Togo flag icons in 7 shapes. Transparent PNG (64, 128, 256, 512px) + SVG. F
 
 ## Download All Shapes
 
-**[Download tg-flag-icons.zip](tg-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download tg-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/tg/tg-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

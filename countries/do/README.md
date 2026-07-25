@@ -10,7 +10,7 @@ Free Dominican Republic flag icons in 7 shapes. Transparent PNG (64, 128, 256, 5
 
 ## Download All Shapes
 
-**[Download do-flag-icons.zip](do-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download do-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/do/do-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

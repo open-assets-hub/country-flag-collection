@@ -10,7 +10,7 @@ Free Saudi Arabia flag icons in 7 shapes. Transparent PNG (64, 128, 256, 512px) 
 
 ## Download All Shapes
 
-**[Download sa-flag-icons.zip](sa-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download sa-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/sa/sa-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

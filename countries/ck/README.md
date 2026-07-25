@@ -10,7 +10,7 @@ Free Cook Islands flag icons in 7 shapes. Transparent PNG (64, 128, 256, 512px) 
 
 ## Download All Shapes
 
-**[Download ck-flag-icons.zip](ck-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download ck-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/ck/ck-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

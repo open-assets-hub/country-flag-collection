@@ -10,7 +10,7 @@ Free Equatorial Guinea flag icons in 7 shapes. Transparent PNG (64, 128, 256, 51
 
 ## Download All Shapes
 
-**[Download gq-flag-icons.zip](gq-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download gq-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/gq/gq-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

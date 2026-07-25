@@ -10,7 +10,7 @@ Free Russian Federation flag icons in 7 shapes. Transparent PNG (64, 128, 256, 5
 
 ## Download All Shapes
 
-**[Download ru-flag-icons.zip](ru-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download ru-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/ru/ru-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

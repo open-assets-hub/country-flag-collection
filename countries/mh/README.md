@@ -10,7 +10,7 @@ Free Marshall Islands flag icons in 7 shapes. Transparent PNG (64, 128, 256, 512
 
 ## Download All Shapes
 
-**[Download mh-flag-icons.zip](mh-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download mh-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/mh/mh-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

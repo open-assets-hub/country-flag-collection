@@ -10,7 +10,7 @@ Free Heard Island and McDonald Islands flag icons in 7 shapes. Transparent PNG (
 
 ## Download All Shapes
 
-**[Download hm-flag-icons.zip](hm-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download hm-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/hm/hm-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

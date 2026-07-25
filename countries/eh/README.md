@@ -10,7 +10,7 @@ Free Western Sahara flag icons in 7 shapes. Transparent PNG (64, 128, 256, 512px
 
 ## Download All Shapes
 
-**[Download eh-flag-icons.zip](eh-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download eh-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/eh/eh-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

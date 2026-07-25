@@ -10,7 +10,7 @@ Free ARAB flag icons in 7 shapes. Transparent PNG (64, 128, 256, 512px) + SVG. F
 
 ## Download All Shapes
 
-**[Download arab-flag-icons.zip](arab-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download arab-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/arab/arab-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

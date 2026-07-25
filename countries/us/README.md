@@ -10,7 +10,7 @@ Free United States of America flag icons in 7 shapes. Transparent PNG (64, 128, 
 
 ## Download All Shapes
 
-**[Download us-flag-icons.zip](us-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download us-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/us/us-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

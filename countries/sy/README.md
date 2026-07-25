@@ -10,7 +10,7 @@ Free Syrian Arab Republic flag icons in 7 shapes. Transparent PNG (64, 128, 256,
 
 ## Download All Shapes
 
-**[Download sy-flag-icons.zip](sy-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download sy-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/sy/sy-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

@@ -10,7 +10,7 @@ Free Bouvet Island flag icons in 7 shapes. Transparent PNG (64, 128, 256, 512px)
 
 ## Download All Shapes
 
-**[Download bv-flag-icons.zip](bv-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download bv-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/bv/bv-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

@@ -10,7 +10,7 @@ Free French Polynesia flag icons in 7 shapes. Transparent PNG (64, 128, 256, 512
 
 ## Download All Shapes
 
-**[Download pf-flag-icons.zip](pf-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download pf-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/pf/pf-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

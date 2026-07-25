@@ -10,7 +10,7 @@ Free Turks and Caicos Islands flag icons in 7 shapes. Transparent PNG (64, 128, 
 
 ## Download All Shapes
 
-**[Download tc-flag-icons.zip](tc-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download tc-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/tc/tc-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 

@@ -10,7 +10,7 @@ Free Burkina Faso flag icons in 7 shapes. Transparent PNG (64, 128, 256, 512px) 
 
 ## Download All Shapes
 
-**[Download bf-flag-icons.zip](bf-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
+**[Download bf-flag-icons.zip](https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/countries/bf/bf-flag-icons.zip)** — All 7 shapes, all sizes + SVG in one zip
 
 ## Download Individual
 
