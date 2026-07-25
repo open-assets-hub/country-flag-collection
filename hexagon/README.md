@@ -44,12 +44,12 @@ Free hexagon-shaped country flag icons for 271 countries. Transparent PNG in 64,
 
 | Format | Size | Download |
 |---|---|---|
-| SVG | vector | [hexagon-svg.zip](../../releases) |
-| PNG 64px | 64×64 | [hexagon-64.zip](../../releases) |
-| PNG 128px | 128×128 | [hexagon-128.zip](../../releases) |
-| PNG 256px | 256×256 | [hexagon-256.zip](../../releases) |
-| PNG 512px | 512×512 | [hexagon-512.zip](../../releases) |
-| **All sizes** | SVG + PNG | [**hexagon-full.zip**](../../releases) |
+| SVG | vector | [hexagon-svg.zip](https://github.com/open-assets-hub/country-flag-collection/releases/download/hexagon-v1.0.0/hexagon-svg.zip) |
+| PNG 64px | 64×64 | [hexagon-64.zip](https://github.com/open-assets-hub/country-flag-collection/releases/download/hexagon-v1.0.0/hexagon-64.zip) |
+| PNG 128px | 128×128 | [hexagon-128.zip](https://github.com/open-assets-hub/country-flag-collection/releases/download/hexagon-v1.0.0/hexagon-128.zip) |
+| PNG 256px | 256×256 | [hexagon-256.zip](https://github.com/open-assets-hub/country-flag-collection/releases/download/hexagon-v1.0.0/hexagon-256.zip) |
+| PNG 512px | 512×512 | [hexagon-512.zip](https://github.com/open-assets-hub/country-flag-collection/releases/download/hexagon-v1.0.0/hexagon-512.zip) |
+| **All sizes** | SVG + PNG | [**hexagon-full.zip**](https://github.com/open-assets-hub/country-flag-collection/releases/download/hexagon-v1.0.0/hexagon-full.zip) |
 
 ## License
 

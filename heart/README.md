@@ -44,12 +44,12 @@ Free heart-shaped country flag icons for 271 countries. Transparent PNG in 64, 1
 
 | Format | Size | Download |
 |---|---|---|
-| SVG | vector | [heart-svg.zip](../../releases) |
-| PNG 64px | 64×64 | [heart-64.zip](../../releases) |
-| PNG 128px | 128×128 | [heart-128.zip](../../releases) |
-| PNG 256px | 256×256 | [heart-256.zip](../../releases) |
-| PNG 512px | 512×512 | [heart-512.zip](../../releases) |
-| **All sizes** | SVG + PNG | [**heart-full.zip**](../../releases) |
+| SVG | vector | [heart-svg.zip](https://github.com/open-assets-hub/country-flag-collection/releases/download/heart-v1.0.0/heart-svg.zip) |
+| PNG 64px | 64×64 | [heart-64.zip](https://github.com/open-assets-hub/country-flag-collection/releases/download/heart-v1.0.0/heart-64.zip) |
+| PNG 128px | 128×128 | [heart-128.zip](https://github.com/open-assets-hub/country-flag-collection/releases/download/heart-v1.0.0/heart-128.zip) |
+| PNG 256px | 256×256 | [heart-256.zip](https://github.com/open-assets-hub/country-flag-collection/releases/download/heart-v1.0.0/heart-256.zip) |
+| PNG 512px | 512×512 | [heart-512.zip](https://github.com/open-assets-hub/country-flag-collection/releases/download/heart-v1.0.0/heart-512.zip) |
+| **All sizes** | SVG + PNG | [**heart-full.zip**](https://github.com/open-assets-hub/country-flag-collection/releases/download/heart-v1.0.0/heart-full.zip) |
 
 ## License
 

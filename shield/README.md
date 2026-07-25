@@ -44,12 +44,12 @@ Free shield-shaped country flag icons for 271 countries. Transparent PNG in 64, 
 
 | Format | Size | Download |
 |---|---|---|
-| SVG | vector | [shield-svg.zip](../../releases) |
-| PNG 64px | 64×64 | [shield-64.zip](../../releases) |
-| PNG 128px | 128×128 | [shield-128.zip](../../releases) |
-| PNG 256px | 256×256 | [shield-256.zip](../../releases) |
-| PNG 512px | 512×512 | [shield-512.zip](../../releases) |
-| **All sizes** | SVG + PNG | [**shield-full.zip**](../../releases) |
+| SVG | vector | [shield-svg.zip](https://github.com/open-assets-hub/country-flag-collection/releases/download/shield-v1.0.0/shield-svg.zip) |
+| PNG 64px | 64×64 | [shield-64.zip](https://github.com/open-assets-hub/country-flag-collection/releases/download/shield-v1.0.0/shield-64.zip) |
+| PNG 128px | 128×128 | [shield-128.zip](https://github.com/open-assets-hub/country-flag-collection/releases/download/shield-v1.0.0/shield-128.zip) |
+| PNG 256px | 256×256 | [shield-256.zip](https://github.com/open-assets-hub/country-flag-collection/releases/download/shield-v1.0.0/shield-256.zip) |
+| PNG 512px | 512×512 | [shield-512.zip](https://github.com/open-assets-hub/country-flag-collection/releases/download/shield-v1.0.0/shield-512.zip) |
+| **All sizes** | SVG + PNG | [**shield-full.zip**](https://github.com/open-assets-hub/country-flag-collection/releases/download/shield-v1.0.0/shield-full.zip) |
 
 ## License
 

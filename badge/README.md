@@ -44,12 +44,12 @@ Free badge-shaped country flag icons for 271 countries. Transparent PNG in 64, 1
 
 | Format | Size | Download |
 |---|---|---|
-| SVG | vector | [badge-svg.zip](../../releases) |
-| PNG 64px | 64×64 | [badge-64.zip](../../releases) |
-| PNG 128px | 128×128 | [badge-128.zip](../../releases) |
-| PNG 256px | 256×256 | [badge-256.zip](../../releases) |
-| PNG 512px | 512×512 | [badge-512.zip](../../releases) |
-| **All sizes** | SVG + PNG | [**badge-full.zip**](../../releases) |
+| SVG | vector | [badge-svg.zip](https://github.com/open-assets-hub/country-flag-collection/releases/download/badge-v1.0.0/badge-svg.zip) |
+| PNG 64px | 64×64 | [badge-64.zip](https://github.com/open-assets-hub/country-flag-collection/releases/download/badge-v1.0.0/badge-64.zip) |
+| PNG 128px | 128×128 | [badge-128.zip](https://github.com/open-assets-hub/country-flag-collection/releases/download/badge-v1.0.0/badge-128.zip) |
+| PNG 256px | 256×256 | [badge-256.zip](https://github.com/open-assets-hub/country-flag-collection/releases/download/badge-v1.0.0/badge-256.zip) |
+| PNG 512px | 512×512 | [badge-512.zip](https://github.com/open-assets-hub/country-flag-collection/releases/download/badge-v1.0.0/badge-512.zip) |
+| **All sizes** | SVG + PNG | [**badge-full.zip**](https://github.com/open-assets-hub/country-flag-collection/releases/download/badge-v1.0.0/badge-full.zip) |
 
 ## License
 

@@ -44,12 +44,12 @@ Free square-shaped country flag icons for 271 countries. Transparent PNG in 64, 
 
 | Format | Size | Download |
 |---|---|---|
-| SVG | vector | [square-svg.zip](../../releases) |
-| PNG 64px | 64×64 | [square-64.zip](../../releases) |
-| PNG 128px | 128×128 | [square-128.zip](../../releases) |
-| PNG 256px | 256×256 | [square-256.zip](../../releases) |
-| PNG 512px | 512×512 | [square-512.zip](../../releases) |
-| **All sizes** | SVG + PNG | [**square-full.zip**](../../releases) |
+| SVG | vector | [square-svg.zip](https://github.com/open-assets-hub/country-flag-collection/releases/download/square-v1.0.0/square-svg.zip) |
+| PNG 64px | 64×64 | [square-64.zip](https://github.com/open-assets-hub/country-flag-collection/releases/download/square-v1.0.0/square-64.zip) |
+| PNG 128px | 128×128 | [square-128.zip](https://github.com/open-assets-hub/country-flag-collection/releases/download/square-v1.0.0/square-128.zip) |
+| PNG 256px | 256×256 | [square-256.zip](https://github.com/open-assets-hub/country-flag-collection/releases/download/square-v1.0.0/square-256.zip) |
+| PNG 512px | 512×512 | [square-512.zip](https://github.com/open-assets-hub/country-flag-collection/releases/download/square-v1.0.0/square-512.zip) |
+| **All sizes** | SVG + PNG | [**square-full.zip**](https://github.com/open-assets-hub/country-flag-collection/releases/download/square-v1.0.0/square-full.zip) |
 
 ## License
 
